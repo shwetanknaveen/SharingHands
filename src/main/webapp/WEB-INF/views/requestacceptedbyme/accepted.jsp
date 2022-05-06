@@ -32,9 +32,9 @@
 			<div class="col-sm-12">
 				<nav class="navbar navbar-expand-sm bg-dark navbar-dark" style="margin-right: -15px">
 					<a class="navbar-brand" href="#">
-						<img src="https://raw.githubusercontent.com/progvasu/CDNPeerConnect/master/peer.png
+						<img src="https://user-images.githubusercontent.com/39495857/165233943-cb6d9760-57d8-42b6-b9b5-bbc58db73df8.jpeg
 " width="35" height="35" class="d-inline-block align-top img-thumbnail" alt="">
-						Peer Connect
+						Sharing Hand
 					</a>
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
