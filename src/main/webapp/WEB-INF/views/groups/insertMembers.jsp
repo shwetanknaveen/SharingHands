@@ -10,7 +10,81 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-<%--  <link rel="stylesheet" href="https://codepen.io/vasu-bansal/pen/ZZGEYV.css">--%>
+	<style>
+		.menutop		{
+			padding: 0px;
+			/*margin-right: 0px;*/
+			/*overflow: hidden;*/
+		}
+
+		.sidebarleft	{
+			/*height: 100vh;*/
+		}
+
+		.sidebarleft .btn	{
+			margin-top: 20px;
+		}
+
+		.requestform	{
+			margin-top: 10px;
+			padding: 10px;
+			padding-bottom: 0px;
+		}
+
+		.requestbutton	{
+			margin-left: 5px;
+		}
+
+		.checkboxlabel	{
+			margin: 0px;
+			padding-left: 20px;
+			padding-right: 0px;
+			height: 45px;
+			overflow: hidden;
+			overflow-y: scroll;
+			word-break: break-all;
+		}
+
+		.badge-secondary	{
+			font-size: 15px;
+			background-color: #404040;
+		}
+
+		.blocks	{
+			height: 100%;
+			width: 100%;
+		}
+
+		.groupmainspacing	{
+			margin-left: 10px;
+			margin-right: 5px;
+			margin-bottom: 10px
+		}
+		/************************  home.jsp  *************************/
+
+		/************************  chat.jsp  *************************/
+		.chathead	{
+			font-size: 23px;
+			margin-top: 5px;
+			margin-left: 5px;
+		}
+
+		.chatheadlabel 	{
+			width: 20%;
+		}
+
+		.badgelabel	{
+			font-size: 18px;
+			margin-left: 5px;
+			color: black;
+		}
+
+		.chatspacing	{
+			margin: 0px;
+			margin-right: -10px;
+			margin-bottom: 5px;
+		}
+	</style>
 <%--	<link rel="stylesheet" href="insertMemberCss.css">--%>
 </head>
 <body>
