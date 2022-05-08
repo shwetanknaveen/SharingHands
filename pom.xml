@@ -11,7 +11,7 @@
 	<groupId>com.sharinghand</groupId>
 	<artifactId>SharingHand</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+
 	<name>SharingHand</name>
 	<description>Collaborative Sharing Platform - SPE Project</description>
 
