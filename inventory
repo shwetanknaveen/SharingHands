@@ -1,0 +1,2 @@
+[ubuntu]
+172.16.133.208 ansible_user=shree ansible_python_interpreter=auto
