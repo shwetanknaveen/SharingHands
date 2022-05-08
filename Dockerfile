@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM maven:3.8.5-eclipse-temurin-8-alpine
 WORKDIR /app
-COPY ./target/SharingHand-0.0.1-SNAPSHOT.jar ./
-CMD ["java", "-jar", "SharingHand-0.0.1-SNAPSHOT.jar"]
+COPY ./ ./
+CMD ["mvn", "spring-boot:run"]
