@@ -10,7 +10,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="https://codepen.io/vasu-bansal/pen/ZZGEYV.css">
+<%--  <link rel="stylesheet" href="https://codepen.io/vasu-bansal/pen/ZZGEYV.css">--%>
+<%--	<link rel="stylesheet" href="insertMemberCss.css">--%>
 </head>
 <body>
 	<div class="container-fluid menutop" style="10vh">
@@ -18,9 +19,9 @@
 			<div class="col-sm-12">
 				<nav class="navbar navbar-expand-sm bg-dark navbar-dark" style="margin-right: -15px">
 					<a class="navbar-brand" href="#">
-						<img src="https://raw.githubusercontent.com/progvasu/CDNPeerConnect/master/peer.png
+						<img src="https://user-images.githubusercontent.com/39495857/165233943-cb6d9760-57d8-42b6-b9b5-bbc58db73df8.jpeg
 " width="35" height="35" class="d-inline-block align-top img-thumbnail" alt="">
-						Peer Connect
+						Sharing Hand
 					</a>
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
