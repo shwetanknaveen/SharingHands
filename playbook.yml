@@ -1,0 +1,14 @@
+---
+- name: Pull docker image of SharingHands application
+  hosts: all
+  tasks:
+    - name: Start docker service
+      service:
+        name: docker
+        state: started
+
+    - name: pull docker image
+      shell: docker pull 1651078/sharing_hands:latest
+
+    - name: running container
+      shell: docker run -d --name sharing_hands_app -p 9995:8098 1651078/sharing_hands
