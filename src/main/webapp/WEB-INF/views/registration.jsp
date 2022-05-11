@@ -7,7 +7,7 @@
 <html lang="en">
   <head>
       <meta charset="utf-8">
-      <title>PC Register</title>
+      <title>SH Register</title>
 
       <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
       <link href="https://www.cdnpkg.com/jQRangeSlider/file/common.css/" rel="stylesheet">
