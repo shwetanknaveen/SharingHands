@@ -1,2 +1,2 @@
 [ubuntu]
-172.16.133.208 ansible_user=shree ansible_python_interpreter=auto
+192.168.216.42 ansible_user=shree ansible_python_interpreter=auto
